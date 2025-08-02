@@ -7,7 +7,7 @@ Taskie is a cli-task-tracker
 1. Clone the repository:
 
 ```bash
-
+https://github.com/FriedToast-source/taskie.git
 ```
 
 2. Navigate to the project directory
