@@ -1,4 +1,3 @@
-# taskie
 # Taskie
 
 Taskie is a cli-task-tracker
