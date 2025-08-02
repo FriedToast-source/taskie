@@ -15,6 +15,16 @@ https://github.com/FriedToast-source/taskie.git
 ```bash
 cd taskie
 ```
+
+## Features
+
++ Add Tasks: Easily add new tasks with descriptions.
++ Update Tasks: Modify the description or status of existing tasks.
++ Delete Tasks: Remove tasks from your list.
++ Mark Tasks: Mark tasks as 'done', 'in progress', etc.
++ List Tasks: View all tasks or filter them by status.
+
+
 ## Usage
 
 ```bash
