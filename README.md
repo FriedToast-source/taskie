@@ -36,6 +36,6 @@ python taskie.py list
 
 #list tasks by status
 python taskie.py list todo
-python taskie.py list inprogress
+python taskie.py list in-progress
 python taskie.list done
 ```
